@@ -46,4 +46,4 @@ Essa é uma aplicação para armazenar repositórios do seu portfólio, que irá
 
 ## **📝 Licença**
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Jonathan-Sales/gostack11-fundamentos-react-native/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Jonathan-Sales/gostack11-fundamentos-react-native/blob/master/LICENSE.md) para mais detalhes.
